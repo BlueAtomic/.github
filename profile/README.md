@@ -1,11 +1,4 @@
-## Blue Atomic
+Our mission at Wolfsvale is to provide the market with more FOSS products. We want to ensure that *everyone* gets a chance, and would like to offer these chances by filling the gaps on the market. We do not discriminate. We will make anything in our grasp for everyone in a cost-effective, yet effective manner. We will also always maintain the software we produce. Created by a software development student, Wolfsvale Software aims to learn, and to teach others. This way we can give the knowledge we have to others, and provide it in a meaningful way. We are a dutch company, and conform to the european laws. All our developers are volunteers.
 
-🙋‍♀️ We are a FOSS organization, aiming to fill the gaps in markets that lack FOSS software.
-
-👀 Our initiative is to open the FOSS world up to more products, allowing everyone to contribute.
-
-👩‍💻 We run fully on donations. We currently do not get any funds through commercial products.
-
-🍪 Interested in expanding your knowledge in development with a team that is also learning? Contact miataboymx@gmail.com with a motivational letter!
-
+<!--
 <img src="https://profile-counter.glitch.me/blueatomic/count.svg"> people have been here
