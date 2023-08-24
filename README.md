@@ -8,4 +8,5 @@
 
 🍪 Interested in expanding your knowledge in development with a team that is also learning? Contact miataboymx@gmail.com with a motivational letter!
 
+<!--
 <img src="https://profile-counter.glitch.me/blueatomic/count.svg"> people have been here
